@@ -2,6 +2,8 @@ Conditionally skip a middleware when a condition is met.
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/manikandants/express-if.svg)](https://greenkeeper.io/)
+
 	npm i express-if --save
 
 ## Usage
