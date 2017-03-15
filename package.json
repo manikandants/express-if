@@ -1,0 +1,21 @@
+{
+  "name": "express-if",
+  "description": "Conditionally add a middleware to express with some common patterns.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/manikandants/express-if.git"
+  },
+  "author": {
+    "name": "Manikandan TS",
+    "email": "manikandan.citeee@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "chai": "^3.5.0"
+  }
+}
